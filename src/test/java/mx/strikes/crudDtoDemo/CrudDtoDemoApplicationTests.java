@@ -1,10 +1,10 @@
-package mx.strikes.crudSpringBootDemo;
+package mx.strikes.crudDtoDemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CrudSpringBootDemoApplicationTests {
+class CrudDtoDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
